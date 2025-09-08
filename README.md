@@ -11,3 +11,4 @@ HealthAI is an AI-powered healthcare assistant that helps users with:
 -  Health Analytics Dashboard  
 
  Disclaimer: This project is for **educational purposes only**. Always consult a doctor for real medical advice.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/subash0017/HealthAI/blob/master/HealthAI.ipynb)
