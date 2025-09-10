@@ -10,12 +10,12 @@
 
 ---
 
-## 🚀 Run the Project
-### 🔹 Open in Google Colab
+## Run the Project
+###  Open in Google Colab
 Click the badge above ☝️ to launch the notebook in Colab.  
 
 
-## 📌 Project Overview
+##  Project Overview
 **HealthAI** is an AI-powered healthcare assistant that helps users by:  
 -  Patient Chat – Ask health-related questions in natural language  
 -  Disease Prediction – Get possible conditions from symptoms  
